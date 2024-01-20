@@ -1,0 +1,2 @@
+Bring new attempt, rotate hard work until bring the shape what expected before start.
+more important is Continues Integration and Continued Deployment.
