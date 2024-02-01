@@ -1,3 +1,6 @@
 first line in a.txt
 new line added
 second line added as well.
+checking changes how it get recorded.
+from above recent line it gets started.
+
